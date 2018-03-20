@@ -5,6 +5,6 @@ Keith: create wireframes
 
 Keith: provide artwork (pics from FR tableaux)
 
-Hey guys, here are the wireframes... hope they make sense. Chat on Monday if not
+Hey guys, here are the wireframes... hope they make sense. Alternatively if you're not tech-savvy enough to have a invision account, I've uploaded the screengrabs
 https://projects.invisionapp.com/freehand/document/kD9nrHh4g
 
